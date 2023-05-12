@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creates Web Applications using MERN STACK<br>📚 I'm currently learning TypeScript<br>🎯 Hunger to Explore Tech<br>🎲 A Fresher looking for a Ticket to the Tech World. My Resume here.</p>
+<p align="left">✨ Creates Web Applications using MERN STACK<br>📚 I'm currently learning TypeScript<br>🎯 Hunger to Explore Tech<br>🎲 A Fresher looking for a Ticket to the Tech World. My Resume [here.](https://drive.google.com/file/d/1Z5xVZ_DxE-lVjeyFdTzLz_8wyc-eKnHq/view?usp=sharing)</p>
 
 ###
 
